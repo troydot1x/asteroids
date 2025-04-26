@@ -1,5 +1,7 @@
 import pygame
 
+#need to check something
+
 def main():
     print("Starting Asteroids!")
 
